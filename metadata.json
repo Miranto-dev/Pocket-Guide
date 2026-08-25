@@ -1,0 +1,6 @@
+{
+  "name": "Pocket Guide",
+  "description": "Application compagnon de voyage PWA offline pour Madagascar (Nosy Be) - Carte interactive, itinéraire, checklist, convertisseur de devises, phrases utiles, urgences, documents et journal.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
